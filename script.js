@@ -19,3 +19,5 @@ window.addEventListener("click", function (event) {
     modal.classList.remove("showModal");
   }
 });
+
+// for accurate commit
